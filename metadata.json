@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Portfolio",
+  "description": "An infinite scrolling canvas portfolio showcasing mobile and web apps with a drag-and-scroll interface.",
+  "requestFramePermissions": []
+}
